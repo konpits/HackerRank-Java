@@ -1,4 +1,4 @@
-### HackerRank JAVA track
+### HackerRank Java track
 
 * Problem solutions 
 * Link to the problems
